@@ -1,1 +1,1 @@
-<img src="[URL_da_Imagem](https://github.com/KauaMauricio/ProjetoWeduka/assets/99615412/c2b5f956-40bc-4877-89df-3c2021eb1d24)https://github.com/KauaMauricio/ProjetoWeduka/assets/99615412/c2b5f956-40bc-4877-89df-3c2021eb1d24" alt="Tela de cadastro da Weduka">
+<img src="https://github.com/KauaMauricio/ProjetoWeduka/assets/99615412/c2b5f956-40bc-4877-89df-3c2021eb1d24)https://github.com/KauaMauricio/ProjetoWeduka/assets/99615412/c2b5f956-40bc-4877-89df-3c2021eb1d24" alt="Tela de cadastro da Weduka">
