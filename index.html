@@ -49,9 +49,9 @@
                 </div><!-- social media -->
                 <p class="description description-second">ou use seu email para se registrar:</p>
                 <form class="form">
-                    <label class="label-input" for="">
-                        <i class="far fa-user icon-modify"></i>
-                        <input type="text" placeholder="Nome">
+                    <label class="label-input" for="letras">
+                        <i class="far fa-user icon-modify" type="text" pattern="[A-Za-z]+"></i>
+                        <input type="text" id="letras" placeholder="Nome">
                     </label>
                     
                     <label class="label-input" for="">
@@ -64,8 +64,8 @@
                         <input type="password" placeholder="Crie a sua senha">
                     </label>
                     
-                    
-                    <button class="btn btn-second">Cadastrar</button>        
+                    <button class="btn btn-second" onclick="verificarLetras()">Cadastrar</button>    
+                    <p id="resultado"></p>    
                 </form>
             </div><!-- second column -->
         </div><!-- first content -->
@@ -116,6 +116,6 @@
             </div><!-- second column -->
         </div><!-- second content -->
     </div>
-    <script src="js/app.js"></script>
+    <script src="./js/app.js"></script>
 </body>
 </html>
